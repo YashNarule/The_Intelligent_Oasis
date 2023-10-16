@@ -1,4 +1,4 @@
-# The_Intelligent_Oasis(Smart_Irrigation_System)
+# The_Intelligent_Oasis(Smart Irrigation System)
 
 IoT-based system that can efficiently control the irrigation of plants by monitoring the soil moisture level.
 
